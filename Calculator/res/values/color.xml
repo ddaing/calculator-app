@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+
+    <color name="del">#ef5350</color>	
+    <color name="del_click">#d32f2f</color>	
+       
+    <color name="calc">#e6ee9c</color>
+    <color name="calc_click">#d4e157</color>   
+    
+    <color name="num">#d7ccc8</color>   
+    <color name="num_click">#a1887f</color>
+       
+    <color name="result">#90caf9</color>	
+    <color name="result_click">#1565c0</color>	
+    
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="amp">&amp;</string>
+    <string name="btn_ls"><![CDATA[<<]]></string>
+ 	<string name="or">&#124;</string>
+ 	<string name="sqrt"><![CDATA[√]]></string>
+ 	<string name="pow">^</string>
+ 	<string name="bracket1">&#40;</string>
+ 	<string name="bracket2">&#41;</string>
+ 	<string name="btn7">7</string>
+ 	<string name="btn8">8</string>
+ 	<string name="btn9">9</string>
+ 	<string name="btn_del">DEL</string>
+ 	<string name="btn_clear">AC</string>
+ 	<string name="btn4">4</string>
+ 	<string name="btn5">5</string>
+ 	<string name="btn6">6</string>
+ 	<string name="btn_mul">x</string>
+ 	<string name="btn_div">&#47;</string>
+ 	<string name="btn1">1</string>
+ 	<string name="btn2">2</string>
+ 	<string name="btn3">3</string>
+ 	<string name="btn_add">&#43;</string>
+ 	<string name="btn_sub">&#45;</string>
+ 	<string name="btn0">0</string>
+ 	<string name="btn_dot">&#46;</string>
+    <string name="btn_rs"><![CDATA[>>]]></string>
+    <string name="btn_result">&#61;</string>
+</resources>
